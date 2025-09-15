@@ -18,7 +18,7 @@ I am a React Web Developer <br>I am Proficient in Next.js, React.js, Typescript,
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sufiankhan-dev&layout=compact&theme=dark" alt="KiranAminPanjwani"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sufiankhan-dev&layout=compact&theme=dark" alt="Sufian Khan"/></p>
   </div>
 
 ### ✍️ Random Dev Quote
